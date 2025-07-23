@@ -3,7 +3,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center bg-background overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center bg-background overflow-hidden pt-20">
       {/* Modern geometric background for dark theme */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-background to-accent/10"></div>
