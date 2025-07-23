@@ -8,7 +8,7 @@ const Header = () => {
   const navItems = [
     { name: "Courses", href: "/courses" },
     { name: "Services", href: "#services" },
-    { name: "Webinars", href: "#webinars" },
+    { name: "Webinars", href: "/webinars" },
     { name: "Blog", href: "#blog" },
   ];
 
