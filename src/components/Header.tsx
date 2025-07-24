@@ -7,7 +7,7 @@ const Header = () => {
 
   const navItems = [
     { name: "Courses", href: "/courses" },
-    { name: "Services", href: "#services" },
+    { name: "Services", href: "/services" },
     { name: "Webinars", href: "/webinars" },
     { name: "Blog", href: "#blog" },
   ];
@@ -23,7 +23,6 @@ const Header = () => {
               alt="Logo" 
               className="h-10 w-auto"
             />
-            <span className="text-xl font-bold text-foreground">AI Mastery</span>
           </div>
 
           {/* Desktop Navigation */}
